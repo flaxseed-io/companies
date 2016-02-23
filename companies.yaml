@@ -1,0 +1,8 @@
+- FundThrough:
+    address: 260 Spadina Avenue, Suite 400
+    postal_code: M5T 2E4
+    backend: ['Ruby', 'Ruby on Rails']
+    frontend: ['AngularJS']
+    industry: Finance
+    description: "Get a line of credit for your oustanding invoices."
+
